@@ -1,0 +1,38 @@
+name: Daily EPG Updates
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  automate-task:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18' # Specify the Node.js version you need
+
+      # Step 3: Install dependencies
+      - name: Install Dependencies
+        run: npm install
+
+      # Step 4: Run the command to grab data
+      - name: Run Grab Command
+        run: npm run grab -- -c ph-channels.xml --maxConnections 10 --gzip true
+
+      # Step 5: Commit and push changes if guide.xml is modified
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add guide.xml*
+          git commit -m "Update guides" || echo "No changes to commit"
+          git push
