@@ -2,7 +2,7 @@ name: Daily EPG Updates
 
 on:
   schedule:
-    - cron: '0 16 * * *' # 12:00 MN Manila Time
+    - cron: '0 21 * * *' # 5AM Manila Time
   workflow_dispatch:
 
 jobs:
