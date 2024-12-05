@@ -77,6 +77,7 @@
   <channel site="mysky.com.ph" lang="en" xmltv_id="AsianFoodNetwork.sg" site_id="22">ASIAN FOOD NETWORK</channel>
   <channel site="mysky.com.ph" lang="en" xmltv_id="CartoonNetwork.ph" site_id="43">CARTOON NETWORK</channel>
   <channel site="mysky.com.ph" lang="en" xmltv_id="CCM.hk" site_id="97">CELESTIAL CLASSIC MOVIES</channel>
+  <channel site="mysky.com.ph" lang="en" xmltv_id="CinemaOne.ph" site_id="56">CINEMA ONE</channel>
   <channel site="mysky.com.ph" lang="en" xmltv_id="CineMo.ph" site_id="7">CINEMO!</channel>
   <channel site="mysky.com.ph" lang="en" xmltv_id="DaVinciAsia.de" site_id="299">DA VINCI</channel>
   <channel site="mysky.com.ph" lang="en" xmltv_id="GlobalTrekker.sg" site_id="333">GLOBAL TREKKER HD</channel>
@@ -143,5 +144,6 @@
   <channel site="clickthecity.com" lang="en" xmltv_id="ROCKExtreme.sg" site_id="186">Rock Extreme</channel>
   <channel site="clickthecity.com" lang="en" xmltv_id="TagalizedMovieChannel.ph" site_id="178">Tagalized Movie Channel</channel>
   <channel site="clickthecity.com" lang="en" xmltv_id="TeleNovelaChannel.ph" site_id="160">Telenovela Channel</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="TV5.ph" site_id="5">TV5</channel>
   <channel site="clickthecity.com" lang="en" xmltv_id="VivaCinema.ph" site_id="155">VIVA Cinema</channel>
 </channels>
