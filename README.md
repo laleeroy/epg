@@ -1,4 +1,4 @@
-# EPG
+# EPG [![update](https://github.com/iptv-org/epg/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/epg/actions/workflows/update.yml)
 
 Tools for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 
@@ -42,13 +42,13 @@ npm install
 To start the download of the guide, select one of the [supported sites](SITES.md) and paste its name into the command below:
 
 ```sh
-npm run grab -- --site=example.com
+npm run grab --- --site=example.com
 ```
 
 And once the download is complete, the guide will be saved to the `guide.xml` file.
 
 ```sh
-Usage: npm run grab -- [options]
+Usage: npm run grab --- [options]
 
 Options:
   -s, --site <name>             Name of the site to parse
@@ -58,6 +58,7 @@ Options:
   -l, --lang <code>             Filter channels by language (ISO 639-2 code)
   -t, --timeout <milliseconds>  Override the default timeout for each request
   -d, --delay <milliseconds>    Override the default delay between request
+  -x, --proxy <url>             Use the specified proxy (example: "socks5://username:password@127.0.0.1:1234")
   --days <days>                 Override the number of days for which the program will be loaded
                                 (defaults to the value from the site config)
   --maxConnections <number>     Limit on the number of concurrent requests (default: 1)
@@ -90,7 +91,7 @@ http://<your_local_ip_address>:3000/guide.xml
 By default, the guide for each channel is downloaded one by one, but you can change this behavior by increasing the number of simultaneous requests using the `--maxConnections` attribute:
 
 ```sh
-npm run grab -- --site=example.com --maxConnections=10
+npm run grab --- --site=example.com --maxConnections=10
 ```
 
 But be aware that under heavy load, some sites may start return an error or completely block your access.
@@ -110,7 +111,7 @@ Create an XML file and copy the descriptions of all the channels you need from t
 And then specify the path to that file via the `--channels` attribute:
 
 ```sh
-npm run grab -- --channels=path/to/custom.channels.xml
+npm run grab --- --channels=path/to/custom.channels.xml
 ```
 
 ### Run on schedule
@@ -118,7 +119,7 @@ npm run grab -- --channels=path/to/custom.channels.xml
 If you want to download the guide automatically on a schedule, you need to pass a valid [cron expression](https://crontab.guru/) to the script using the `--cron` attribute:
 
 ```sh
-npm run grab -- --site=example.com --cron="0 0 * * *"
+npm run grab --- --site=example.com --cron="0 0 * * *"
 ```
 
 ## Update

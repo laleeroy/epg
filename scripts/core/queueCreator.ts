@@ -1,7 +1,7 @@
 import { Storage, Collection, DateTime, Logger } from '@freearhey/core'
 import { ChannelsParser, ConfigLoader, ApiChannel, Queue } from './'
 import { SITES_DIR, DATA_DIR } from '../constants'
-import { Channel, SiteConfig } from 'epg-grabber'
+import { SiteConfig } from 'epg-grabber'
 import path from 'path'
 import { GrabOptions } from '../commands/epg/grab'
 
@@ -43,12 +43,14 @@ export class QueueCreator {
       const config: SiteConfig = await this.configLoader.load(configPath)
 
       if (channel.xmltv_id) {
-        const found: ApiChannel = channels.first(
-          (_channel: ApiChannel) => _channel.id === channel.xmltv_id
-        )
-        if (found) {
-          channel.logo = found.logo
-          channel.name = found.name
+        if (!channel.icon) {
+          const found: ApiChannel = channels.first(
+            (_channel: ApiChannel) => _channel.id === channel.xmltv_id
+          )
+
+          if (found) {
+            channel.icon = found.logo
+          }
         }
       } else {
         channel.xmltv_id = channel.site_id
