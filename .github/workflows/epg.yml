@@ -41,7 +41,7 @@ jobs:
 
       # Step 7: Run the command to grab data
       - name: Run Grab Command
-        run: npm run grab -- -c updated_channels.xml --maxConnections 10 --gzip true
+        run: npm run grab -- -c updated_channels.xml --maxConnections 100 --gzip true
 
       # Step 8: Commit and push changes if guide.xml is modified
       - name: Commit and Push Changes
