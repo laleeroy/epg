@@ -31,7 +31,7 @@ def save_channels(channels, output_file):
 
 base_directory = 'sites'
 output_file = 'updated_channels.xml'
-target_dirs = ['clickthecity.com', 'mysky.com.ph', 'osn.com']
+target_dirs = ['clickthecity.com', 'mysky.com.ph', 'osn.com', 'nowplayer.now.com', 'ontvtonight.com', 'singtel.com', 'tvtv.us', 'starhubtvplus.com']
 
 channels = collect_channels(base_directory, target_dirs)
 save_channels(channels, output_file)
