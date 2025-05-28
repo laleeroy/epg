@@ -154,6 +154,65 @@
   <channel site="singtel.com" lang="zh" xmltv_id="TVBSNews.tw" site_id="6516">TVBS News</channel>
   <channel site="singtel.com" lang="zh" xmltv_id="TVBXingHe.hk" site_id="5517">TVB Xing He (HD)</channel>
   <channel site="singtel.com" lang="zh" xmltv_id="tvNAsia.hk" site_id="5518">tvN HD (Mandarin)</channel>
+<channel site="osn.com" lang="en" xmltv_id="" site_id="DWR">DWRR 101.9</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OBG">OSN TV Crime</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OCM">OSNtv Movies Horror</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OFM">OSN TV Movies Family</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OLH">OSN TV Now</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OMC">OSN TV Movies Comedy</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OST">OSN TV Showcase Classics</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="OTO">OSN TV One</channel>
+  <channel site="osn.com" lang="en" xmltv_id="AksyonTVInternational.ph" site_id="AKS">Kapatid TV5</channel>
+  <channel site="osn.com" lang="en" xmltv_id="AlfaSeries.ae" site_id="SE2">Alfa Series +2</channel>
+  <channel site="osn.com" lang="en" xmltv_id="AlfaSeriesPlus2.ae" site_id="SER">Alfa Series Channel</channel>
+  <channel site="osn.com" lang="en" xmltv_id="AlSafwa.ae" site_id="SAF">Al Safwa</channel>
+  <channel site="osn.com" lang="en" xmltv_id="AlYawm.ae" site_id="YAW">Alfa Al Yawm</channel>
+  <channel site="osn.com" lang="en" xmltv_id="ANC.ph" site_id="ANC">ANC</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="APL">Animal Planet</channel>
+  <channel site="osn.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="BTV">Bloomberg</channel>
+  <channel site="osn.com" lang="en" xmltv_id="CartoonNetworkArabic.ae" site_id="TCN">Cartoon Network</channel>
+  <channel site="osn.com" lang="en" xmltv_id="Cinema1.ae" site_id="CM1">Alfa Cinema 1</channel>
+  <channel site="osn.com" lang="en" xmltv_id="Cinema2.ae" site_id="CM2">Alfa Cinema 2</channel>
+  <channel site="osn.com" lang="en" xmltv_id="CinemaOneGlobal.ph" site_id="COG">Cinema One Global</channel>
+  <channel site="osn.com" lang="en" xmltv_id="CineMo.ph" site_id="CIN">Cine Mo</channel>
+  <channel site="osn.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="CNB">CNBC</channel>
+  <channel site="osn.com" lang="en" xmltv_id="CNNArabic.ae" site_id="CNN">CNN</channel>
+  <channel site="osn.com" lang="en" xmltv_id="CrimePlusInvestigation.uk" site_id="CAI">Crime &amp; Investigation Network</channel>
+  <channel site="osn.com" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us" site_id="DSC">Discovery HD</channel>
+  <channel site="osn.com" lang="en" xmltv_id="EMiddleEast.us" site_id="ETV">E! Entertainment</channel>
+  <channel site="osn.com" lang="en" xmltv_id="Fann.ae" site_id="FAN">Alfa Fann</channel>
+  <channel site="osn.com" lang="en" xmltv_id="Fatafeat.ae" site_id="FTF">Fatafeat</channel>
+  <channel site="osn.com" lang="en" xmltv_id="GMALifeTV.ph" site_id="GML">GMA Life TV</channel>
+  <channel site="osn.com" lang="en" xmltv_id="GMANewsTV.ph" site_id="GMN">GMA News TV</channel>
+  <channel site="osn.com" lang="en" xmltv_id="GMAPinoyTVMiddleEast.ph" site_id="GMA">GMA Pinoy TV</channel>
+  <channel site="osn.com" lang="en" xmltv_id="History2MiddleEast.us" site_id="HI2">H2 HD</channel>
+  <channel site="osn.com" lang="en" xmltv_id="HistoryMiddleEast.us" site_id="HIS">History HD</channel>
+  <channel site="osn.com" lang="en" xmltv_id="InvestigationDiscoveryEurope.us" site_id="DCX">Discovery ID</channel>
+  <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
+  <channel site="osn.com" lang="en" xmltv_id="MTV00s.uk" site_id="VH1">MTV 00s</channel>
+  <channel site="osn.com" lang="en" xmltv_id="MTVLive.uk" site_id="MTL">MTV Live HD</channel>
+  <channel site="osn.com" lang="en" xmltv_id="MusicNow.ae" site_id="NOW">Music Now</channel>
+  <channel site="osn.com" lang="en" xmltv_id="MyxMiddleEast.ph" site_id="MYX">Myx</channel>
+  <channel site="osn.com" lang="en" xmltv_id="NickelodeonArabia.ae" site_id="NIC">Nickelodeon HD</channel>
+  <channel site="osn.com" lang="en" xmltv_id="NickJrArabia.ae" site_id="NJR">Nick Jr</channel>
+  <channel site="osn.com" lang="en" xmltv_id="NicktoonsArabia.ae" site_id="NKT">NickToons HD</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNComedy.ae" site_id="OCO">OSN TV Comedy</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNKids.ae" site_id="OMK">OSN TV Kids</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNKidzone.ae" site_id="KDZ">OSN TV Kidzone</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNMezze.ae" site_id="OMZ">OSN TV Mezze</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesAction.ae" site_id="AHD">OSN TV Movies Action</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesHollywood.ae" site_id="OPR">OSN TV Movies Hollywood</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="OM1">OSN TV Movies Premiere</channel>
+  <channel site="osn.com" lang="en" xmltv_id="" site_id="ONS">OSN TV News</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNShowcase.ae" site_id="OFH">OSN TV Showcase</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNYahala.ae" site_id="OYH">OSN TV Yahala</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNYahalaAflam.ae" site_id="OYC">OSN TV Yahala Aflam</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNYahalaBilArabi.ae" site_id="OYA">OSN TV Yahala Bil Arabi</channel>
+  <channel site="osn.com" lang="en" xmltv_id="PBARush.ph" site_id="PBA">PBA Rush</channel>
+  <channel site="osn.com" lang="en" xmltv_id="SkyNewsInternational.uk" site_id="SKH">Sky News HD</channel>
+  <channel site="osn.com" lang="en" xmltv_id="TeleRadyoGlobal.ph" site_id="DZM">DZMM Teleradyo</channel>
+  <channel site="osn.com" lang="en" xmltv_id="TheFilipinoChannelMiddleEast.us" site_id="TFC">TFC</channel>
+  <channel site="osn.com" lang="en" xmltv_id="TLCArabia.us" site_id="TLC">TLC HD</channel>
 <channel site="tvtv.us" lang="en" xmltv_id="" site_id="33691">GolTV English</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="" site_id="83157">Corner Store (KSFV-CD3) Los Angeles, CA</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="3ABNEnglish.us" site_id="10002">3ABN English</channel>
@@ -2453,97 +2512,6 @@
   <channel site="tvtv.us" lang="fr" xmltv_id="IciRDI.ca" site_id="60327">ICI RDI</channel>
   <channel site="tvtv.us" lang="fr" xmltv_id="LCN.ca" site_id="67231">LCN</channel>
   <channel site="tvtv.us" lang="fr" xmltv_id="Noovo.ca" site_id="58688">Noovo</channel>
-<channel site="osn.com" lang="en" xmltv_id="" site_id="DWR">DWRR 101.9</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OBG">OSN TV Crime</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OCM">OSNtv Movies Horror</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OFM">OSN TV Movies Family</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OLH">OSN TV Now</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OMC">OSN TV Movies Comedy</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OST">OSN TV Showcase Classics</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="OTO">OSN TV One</channel>
-  <channel site="osn.com" lang="en" xmltv_id="AksyonTVInternational.ph" site_id="AKS">Kapatid TV5</channel>
-  <channel site="osn.com" lang="en" xmltv_id="AlfaSeries.ae" site_id="SE2">Alfa Series +2</channel>
-  <channel site="osn.com" lang="en" xmltv_id="AlfaSeriesPlus2.ae" site_id="SER">Alfa Series Channel</channel>
-  <channel site="osn.com" lang="en" xmltv_id="AlSafwa.ae" site_id="SAF">Al Safwa</channel>
-  <channel site="osn.com" lang="en" xmltv_id="AlYawm.ae" site_id="YAW">Alfa Al Yawm</channel>
-  <channel site="osn.com" lang="en" xmltv_id="ANC.ph" site_id="ANC">ANC</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="APL">Animal Planet</channel>
-  <channel site="osn.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="BTV">Bloomberg</channel>
-  <channel site="osn.com" lang="en" xmltv_id="CartoonNetworkArabic.ae" site_id="TCN">Cartoon Network</channel>
-  <channel site="osn.com" lang="en" xmltv_id="Cinema1.ae" site_id="CM1">Alfa Cinema 1</channel>
-  <channel site="osn.com" lang="en" xmltv_id="Cinema2.ae" site_id="CM2">Alfa Cinema 2</channel>
-  <channel site="osn.com" lang="en" xmltv_id="CinemaOneGlobal.ph" site_id="COG">Cinema One Global</channel>
-  <channel site="osn.com" lang="en" xmltv_id="CineMo.ph" site_id="CIN">Cine Mo</channel>
-  <channel site="osn.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="CNB">CNBC</channel>
-  <channel site="osn.com" lang="en" xmltv_id="CNNArabic.ae" site_id="CNN">CNN</channel>
-  <channel site="osn.com" lang="en" xmltv_id="CrimePlusInvestigation.uk" site_id="CAI">Crime &amp; Investigation Network</channel>
-  <channel site="osn.com" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us" site_id="DSC">Discovery HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="EMiddleEast.us" site_id="ETV">E! Entertainment</channel>
-  <channel site="osn.com" lang="en" xmltv_id="Fann.ae" site_id="FAN">Alfa Fann</channel>
-  <channel site="osn.com" lang="en" xmltv_id="Fatafeat.ae" site_id="FTF">Fatafeat</channel>
-  <channel site="osn.com" lang="en" xmltv_id="GMALifeTV.ph" site_id="GML">GMA Life TV</channel>
-  <channel site="osn.com" lang="en" xmltv_id="GMANewsTV.ph" site_id="GMN">GMA News TV</channel>
-  <channel site="osn.com" lang="en" xmltv_id="GMAPinoyTVMiddleEast.ph" site_id="GMA">GMA Pinoy TV</channel>
-  <channel site="osn.com" lang="en" xmltv_id="History2MiddleEast.us" site_id="HI2">H2 HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="HistoryMiddleEast.us" site_id="HIS">History HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="InvestigationDiscoveryEurope.us" site_id="DCX">Discovery ID</channel>
-  <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">Moonbug Kids</channel>
-  <channel site="osn.com" lang="en" xmltv_id="MTV00s.uk" site_id="VH1">MTV 00s</channel>
-  <channel site="osn.com" lang="en" xmltv_id="MTVLive.uk" site_id="MTL">MTV Live HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="MusicNow.ae" site_id="NOW">Music Now</channel>
-  <channel site="osn.com" lang="en" xmltv_id="MyxMiddleEast.ph" site_id="MYX">Myx</channel>
-  <channel site="osn.com" lang="en" xmltv_id="NickelodeonArabia.ae" site_id="NIC">Nickelodeon HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="NickJrArabia.ae" site_id="NJR">Nick Jr</channel>
-  <channel site="osn.com" lang="en" xmltv_id="NicktoonsArabia.ae" site_id="NKT">NickToons HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNComedy.ae" site_id="OCO">OSN TV Comedy</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNKids.ae" site_id="OMK">OSN TV Kids</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNKidzone.ae" site_id="KDZ">OSN TV Kidzone</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNMezze.ae" site_id="OMZ">OSN TV Mezze</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesAction.ae" site_id="AHD">OSN TV Movies Action</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesHollywood.ae" site_id="OPR">OSN TV Movies Hollywood</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="OM1">OSN TV Movies Premiere</channel>
-  <channel site="osn.com" lang="en" xmltv_id="" site_id="ONS">OSN TV News</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNShowcase.ae" site_id="OFH">OSN TV Showcase</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNYahala.ae" site_id="OYH">OSN TV Yahala</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNYahalaAflam.ae" site_id="OYC">OSN TV Yahala Aflam</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNYahalaBilArabi.ae" site_id="OYA">OSN TV Yahala Bil Arabi</channel>
-  <channel site="osn.com" lang="en" xmltv_id="PBARush.ph" site_id="PBA">PBA Rush</channel>
-  <channel site="osn.com" lang="en" xmltv_id="SkyNewsInternational.uk" site_id="SKH">Sky News HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="TeleRadyoGlobal.ph" site_id="DZM">DZMM Teleradyo</channel>
-  <channel site="osn.com" lang="en" xmltv_id="TheFilipinoChannelMiddleEast.us" site_id="TFC">TFC</channel>
-  <channel site="osn.com" lang="en" xmltv_id="TLCArabia.us" site_id="TLC">TLC HD</channel>
-<channel site="clickthecity.com" lang="en" xmltv_id="" site_id="137">Solar Flix</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="" site_id="163">Crime Investigation</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="A2Z.ph" site_id="189">a2z Channel 11</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="ANC.ph" site_id="13">ANC</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="Animax.ph" site_id="168">Animax</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="AXN.ph" site_id="126">AXN</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="CelestialMoviesPinoy.hk" site_id="181">Celestial Movies Pinoy</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="CinemaOneGlobal.ph" site_id="82">Cinema One</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="CinemaxAsia.sg" site_id="30">Cinemax</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="CNNPhilippines.ph" site_id="177">CNN Philippines</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="GEM.sg" site_id="183">GEM</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="GMATV.ph" site_id="2">GMA</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="GTV.ph" site_id="143">GTV</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="History.ph" site_id="162">History</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="IBC13.ph" site_id="7">IBC TV 13</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="JeepneyTV.ph" site_id="179">Jeepney TV</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="KapamilyaChannel.ph" site_id="184">Kapamilya Channel</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="KMoviesPinoy.ph" site_id="182">K-Movies Pinoy</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="Liga.ph" site_id="188">Liga</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="MetroChannel.ph" site_id="66">Metro Channel</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="MyxPhilippines.ph" site_id="139">MYX</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="NationalGeographic.ph" site_id="75">National Geographic</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="Net25.ph" site_id="133">Net 25</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="Nickelodeon.ph" site_id="78">Nickelodeon</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="PBO.ph" site_id="142">PBO</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="PTV.ph" site_id="4">PTV</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="ROCKEntertainment.sg" site_id="180">Rock Entertainment</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="ROCKExtreme.sg" site_id="186">Rock Extreme</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="TagalizedMovieChannel.ph" site_id="178">Tagalized Movie Channel</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="TeleNovelaChannel.ph" site_id="160">Telenovela Channel</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="TV5.ph" site_id="5">TV5</channel>
-  <channel site="clickthecity.com" lang="en" xmltv_id="VivaCinema.ph" site_id="155">VIVA Cinema</channel>
 <channel site="mysky.com.ph" lang="en" xmltv_id="" site_id="28">CNN</channel>
   <channel site="mysky.com.ph" lang="en" xmltv_id="" site_id="30">BLOOMBERG</channel>
   <channel site="mysky.com.ph" lang="en" xmltv_id="" site_id="34">WARNER TV</channel>
@@ -2659,4 +2627,36 @@
   <channel site="mysky.com.ph" lang="en" xmltv_id="TVBSAsia.tw" site_id="144">TVBS ASIA</channel>
   <channel site="mysky.com.ph" lang="en" xmltv_id="TVBSNews.tw" site_id="304">TVBS NEWS</channel>
   <channel site="mysky.com.ph" lang="en" xmltv_id="ZooMoo.sg" site_id="297">ZOO MOO</channel>
+<channel site="clickthecity.com" lang="en" xmltv_id="" site_id="137">Solar Flix</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="" site_id="163">Crime Investigation</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="A2Z.ph" site_id="189">a2z Channel 11</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="ANC.ph" site_id="13">ANC</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="Animax.ph" site_id="168">Animax</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="AXN.ph" site_id="126">AXN</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="CelestialMoviesPinoy.hk" site_id="181">Celestial Movies Pinoy</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="CinemaOneGlobal.ph" site_id="82">Cinema One</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="CinemaxAsia.sg" site_id="30">Cinemax</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="CNNPhilippines.ph" site_id="177">CNN Philippines</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="GEM.sg" site_id="183">GEM</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="GMATV.ph" site_id="2">GMA</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="GTV.ph" site_id="143">GTV</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="History.ph" site_id="162">History</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="IBC13.ph" site_id="7">IBC TV 13</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="JeepneyTV.ph" site_id="179">Jeepney TV</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="KapamilyaChannel.ph" site_id="184">Kapamilya Channel</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="KMoviesPinoy.ph" site_id="182">K-Movies Pinoy</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="Liga.ph" site_id="188">Liga</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="MetroChannel.ph" site_id="66">Metro Channel</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="MyxPhilippines.ph" site_id="139">MYX</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="NationalGeographic.ph" site_id="75">National Geographic</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="Net25.ph" site_id="133">Net 25</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="Nickelodeon.ph" site_id="78">Nickelodeon</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="PBO.ph" site_id="142">PBO</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="PTV.ph" site_id="4">PTV</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="ROCKEntertainment.sg" site_id="180">Rock Entertainment</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="ROCKExtreme.sg" site_id="186">Rock Extreme</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="TagalizedMovieChannel.ph" site_id="178">Tagalized Movie Channel</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="TeleNovelaChannel.ph" site_id="160">Telenovela Channel</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="TV5.ph" site_id="5">TV5</channel>
+  <channel site="clickthecity.com" lang="en" xmltv_id="VivaCinema.ph" site_id="155">VIVA Cinema</channel>
 </channels>
